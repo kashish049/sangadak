@@ -1,2 +1,0 @@
-# sangadak
-simple calculator
